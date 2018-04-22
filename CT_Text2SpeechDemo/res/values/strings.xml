@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CT_Text2SpeechDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="speech">文本朗读</string>  
+    <string name="notAvailable">Language is not available.</string>  
+    <string name="text">  
+        请关注微信公众号，代码之间，codestravel \n  
+        My Email is: 1215714557@qq.com.\n  
+        end \n  
+    </string> 
+
+</resources>
