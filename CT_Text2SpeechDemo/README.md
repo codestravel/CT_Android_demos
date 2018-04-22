@@ -118,5 +118,5 @@ public class MainActivity extends Activity implements OnInitListener{
 }
 
 ```
-完整代码参见[github](www.google.com)
+完整代码参见[github](完整代码参见[github](https://github.com/codestravel/CT_Android_demos/tree/master/CT_Text2SpeechDemo))
 
